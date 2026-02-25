@@ -79,7 +79,7 @@ The model predicts the health risk category and provides:
 
 ## 📸 Application Preview
 
-(Add screenshots here)
+![IMAGE](https://github.com/suryavhi704/End-to-End-NovaGen-Health-Recommendation-System/blob/main/Screenshot%202026-02-25%20184920.png?raw=true)
 
 ---
 
@@ -93,3 +93,4 @@ Special thanks to **Shradha Khapra** for providing structured guidance and pract
 ## 📬 Connect With Me
 
 If you find this project interesting, feel free to connect or collaborate!
+
